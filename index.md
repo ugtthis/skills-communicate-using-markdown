@@ -10,3 +10,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+#A task list
+- [ ] Brush your teeth
+- [ ] Make coffee
+- [x] Listen to music
+- [ ] Go on a walk
