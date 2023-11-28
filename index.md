@@ -4,3 +4,9 @@
 
 # Below is an image from Github
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Below is a code snippet
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
